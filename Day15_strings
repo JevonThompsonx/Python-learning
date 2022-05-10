@@ -1,0 +1,6 @@
+x = 'Sarah is cute'
+print(x[:7])
+
+x = 'My name is Jack'
+print(x[3:])
+

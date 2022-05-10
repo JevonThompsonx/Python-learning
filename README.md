@@ -18,6 +18,7 @@ Notes to remember
 >=
 !=
 
+Reserved words:
 * str()- converts to a string
 * float()-converts to a float
 * int()- converts to a integer
@@ -34,5 +35,15 @@ Notes to remember
 * Except- Back up command of try fails to prevent crash
 * Def- Define a new function 
 * Break- Ends a loop and de-indents
-* Continues- Continues a loop
-* for- Loops within set conditions with set variables
+* Continue- Continues a loop from the beginning
+* for- Loops within set conditions with the variable taking on succeeding values within a list
+* True- A Boolean variable type that checks if a statement is objectively true
+* False- A Boolean variables that checks if a statement is objectively false
+* None- An empty data type that can be put into a variable
+* Is- Compares whether 2 variables are the same in type and value
+* Is not- Same as is^
+
+
+* [] - Can be used to select a certain location in a string or list of variables 
+* == - Used to check if something is equal in value
+* = assigns a value to an assignment
